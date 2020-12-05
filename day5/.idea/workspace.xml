@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="932164b3-603f-4e45-a410-e2f83c5ac887" name="Default Changelist" comment="" />
+    <list default="true" id="4ad87f02-4046-4984-af64-231e94c20d2e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1lCcTTqiW4UnfNyqa5CO1jQYOgE" />
+  <component name="ProjectId" id="1lEJxBbHLrLipyX8VkN3zfMEf8t" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,8 +20,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="day4" />
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="day5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -48,39 +41,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="932164b3-603f-4e45-a410-e2f83c5ac887" name="Default Changelist" comment="" />
-      <created>1607104522125</created>
+      <changelist id="4ad87f02-4046-4984-af64-231e94c20d2e" name="Default Changelist" comment="" />
+      <created>1607156560921</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607104522125</updated>
+      <updated>1607156560921</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1607108127884">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1607158391761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607108127884" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1607108127883">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607158391761" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1607158391760">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607108127883" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1607108127882">
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607158391760" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1607158391760">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607108127882" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1607108127884">
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607158391760" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1607158391761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607108127884" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607158391761" />
   </component>
 </project>
